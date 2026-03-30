@@ -1,7 +1,11 @@
 # Salesforce-Learning-Journey
 This showcases my Salesforce Learning Journey and getting badges.
 # 🚀 Salesforce Learning Journey
+Salesforce Platform Administrator
+📌 About Me
+I am a Salesforce beginner building my skills in: Salesforce Platform Administrator Certification
 
+This repository tracks my learning progress.
 ## 🏅 My Trailhead Badges
 ## Modules1
 -Identity Basics
@@ -29,11 +33,5 @@ This showcases my Salesforce Learning Journey and getting badges.
 -Natural Language Processign Basics
 Generative AI Basics
 Artificial Intelligence Fundamentals
-
-## Salesforce Platform Administrator 
-
-## 📌 About Me
-I am a Salesforce beginner building my skills in:
-Salesforce Platform Administrator Certification
 
 This repository tracks my learning progress.
