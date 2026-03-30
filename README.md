@@ -4,6 +4,7 @@ This showcases my Salesforce Learning Journey and getting badges.
 Salesforce Platform Administrator
   
   📌 About Me
+    
      I am a Salesforce beginner building my skills in: Salesforce Platform Administrator Certification
 
      This repository tracks my learning progress.
